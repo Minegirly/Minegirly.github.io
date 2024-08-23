@@ -1,0 +1,1 @@
+var json_name_Oriole_42 = {"type":"FeatureCollection","name":"name_Oriole_42","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","time":"2024/08/02 16:40:40.000","name":"Oriole","cmt":"1"},"geometry":{"type":"Point","coordinates":[-85.908596,11.344016]}}]}
