@@ -1,0 +1,1 @@
+var json_name_Greyhawk_27 = {"type":"FeatureCollection","name":"name_Greyhawk_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","time":"2024/08/01 15:44:49.000","name":"Grey hawk","cmt":"1"},"geometry":{"type":"Point","coordinates":[-85.898101,11.324178]}}]}
