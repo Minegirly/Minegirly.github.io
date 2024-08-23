@@ -1,0 +1,1 @@
+var json_name_Tapacamino_15 = {"type":"FeatureCollection","name":"name_Tapacamino_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","time":"2024/08/01 15:58:18.000","name":"Tapacamino","cmt":"1"},"geometry":{"type":"Point","coordinates":[-85.896852793121454,11.325115575724745]}}]}

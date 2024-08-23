@@ -1,0 +1,1 @@
+var json_name_ElegantTrogon_25 = {"type":"FeatureCollection","name":"name_ElegantTrogon_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","time":"2024/08/02 14:42:52.000","name":"Elegant Trogon","cmt":">3"},"geometry":{"type":"Point","coordinates":[-85.912754,11.338874]}}]}
